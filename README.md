@@ -59,13 +59,13 @@ Getting Started
     0   |   |
     00  |   |
     000 |   |
-    A	B	C
+    A   B   C
 
-    Move disk from A to C
-    00  |   | 
+
+    00  |   |
     000 |   |
     |   |   0
-    A	B	C
+    A   B   C
 
     ...
     //
