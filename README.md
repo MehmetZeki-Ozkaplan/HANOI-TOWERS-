@@ -1,4 +1,4 @@
-# HANOI-TOWERS-
+# HANOI-TOWERS 
 
 Tower of Hanoi Solver
 Project Introduction
