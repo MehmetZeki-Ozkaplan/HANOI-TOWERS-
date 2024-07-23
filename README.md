@@ -56,15 +56,15 @@ Getting Started
     Select the solution method (1: Recursive, 2: Iterative): 1
 
     Initial state:
-    0
-    00
-    000
+    0   |   |
+    00  |   |
+    000 |   |
     A	B	C
 
     Move disk from A to C
-    0
-    00
-    |
+    00  |   | 
+    000 |   |
+    |   |   0
     A	B	C
 
     ...
