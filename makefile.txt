@@ -1,0 +1,18 @@
+// Targets
+all: build run
+
+// Rule to compile the source file into an object file
+compile:
+	g++ -c hanoi.cpp
+
+// Rule to build the final executable
+build: compile
+	g++ main.cpp -o prog hanoi.o
+
+// Rule to run the executable
+run: build
+	prog
+
+// Rule to clean up generated files
+clean:
+	del hanoi.o
