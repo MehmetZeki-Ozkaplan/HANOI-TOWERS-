@@ -51,24 +51,24 @@ Getting Started
   2.Follow the on-screen prompts to enter the number of disks and choose the solution method.
 
 ** Example Usage **
-//
-Enter the number of disks (must be a positive integer): 3
-Select the solution method (1: Recursive, 2: Iterative): 1
+    //
+    Enter the number of disks (must be a positive integer): 3
+    Select the solution method (1: Recursive, 2: Iterative): 1
 
-Initial state:
-0
-00
-000
-A	B	C
+    Initial state:
+    0
+    00
+    000
+    A	B	C
 
-Move disk from A to C
-0
-00
-|
-A	B	C
+    Move disk from A to C
+    0
+    00
+    |
+    A	B	C
 
-...
-//
+    ...
+    //
   
 Project Structure
 
