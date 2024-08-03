@@ -36,17 +36,18 @@ Getting Started
 ** Installation **
   1. Clone the repository:
      
-     git clone https://github.com/yourusername/tower-of-hanoi-solver.git
-     cd tower-of-hanoi-solver
+         git clone
+                            https://github.com/yourusername/tower-of-hanoi.  -solver.git
+        cd tower-of-hanoi-solver
      
 2.Compile the project:
 
-    g++ -o hanoi main.cpp hanoi.cpp
+        g++ -o hanoi main.cpp hanoi.cpp
 
 ** Usage **
   1.Run the program:
       
-      ./hanoi
+        ./hanoi
       
   2.Follow the on-screen prompts to enter the number of disks and choose the solution method.
 
