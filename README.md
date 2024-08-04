@@ -7,38 +7,40 @@ Tower of Hanoi Solver is a C++ application that solves the famous Tower of Hanoi
 
 Features
 
-    -- Solution Methods: Solve the Tower of Hanoi problem using both recursive and iterative methods.
-    -- Step-by-Step Display: Visually display the current state of the towers at each step.
-    -- Time Complexity Calculation: Calculate and display the time complexity of the problem.
-    -- Execution Time Measurement: Measure and display the execution time of the solution.
-    -- User Input: Accept user input for the number of disks and the solution method.
+-- Solution Methods: Solve the Tower of Hanoi problem using both recursive and iterative methods.
+-- Step-by-Step Display: Visually display the current state of the towers at each step.
+-- Time Complexity Calculation: Calculate and display the time complexity of the problem.
+-- Execution Time Measurement: Measure and display the execution time of the solution.
+-- User Input: Accept user input for the number of disks and the solution method.
 
 Use Cases
 
-    -- Education: Helps students understand recursive and iterative algorithms in algorithms and data structures courses.
-    -- Career Development: Can be used for preparing for software engineering and programming interviews.
-    -- Entertainment: For anyone who enjoys solving the Tower of Hanoi problem.
+-- Education: Helps students understand recursive and iterative algorithms in algorithms and data structures courses.
+-- Career Development: Can be used for preparing for software engineering and programming interviews.
+-- Entertainment: For anyone who enjoys solving the Tower of Hanoi problem.
 
 How It Works
 
-    1. The user is prompted to enter the number of disks and the solution method (recursive or iterative).
-    2. The problem is solved using the selected method, and the state of the towers is displayed at each step.
-    3. The solution time is measured and displayed.
-    4. The time complexity is calculated and displayed. 
+1. The user is prompted to enter the number of disks and the solution method (recursive or iterative).
+2. The problem is solved using the selected method, and the state of the towers is displayed at each step.
+3. The solution time is measured and displayed.
+4. The time complexity is calculated and displayed. 
 
 Getting Started
   
   Prerequisites
 
-    -- C++ compiler (e.g., g++, clang++)
-    -- Standard C++ library
+-- C++ compiler (e.g., g++, clang++)
+-- Standard C++ library
 
 ** Installation **
   1. Clone the repository:
      
          git clone
-                            https://github.com/yourusername/tower-of-hanoi.  -solver.git
-        cd tower-of-hanoi-solver
+
+         https://github.com/yourusername/tower-of-hanoi.  -solver.git
+
+         cd tower-of-hanoi-solver
      
 2.Compile the project:
 
@@ -52,9 +54,9 @@ Getting Started
   2.Follow the on-screen prompts to enter the number of disks and choose the solution method.
 
 ** Example Usage **
-    //
-    Enter the number of disks (must be a positive integer): 3
-    Select the solution method (1: Recursive, 2: Iterative): 1
+//
+Enter the number of disks (must be a positive integer): 3
+Select the solution method (1: Recursive, 2: Iterative): 1
 
     Initial state:
     0   |   |
