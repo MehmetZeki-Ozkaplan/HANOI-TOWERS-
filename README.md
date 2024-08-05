@@ -11,7 +11,7 @@ Tower of Hanoi Solver
 - [Contributing](#contributing)
 - [License](#license)
 
-## Project Introduction
+## Introduction
 
 Tower of Hanoi Solver is a C++ application that solves the famous Tower of Hanoi problem using both recursive and iterative methods. This project can be used for educational purposes in algorithms and data structures courses, as well as by anyone interested in this problem. The program provides a user-friendly interface and visually displays the state of the towers at each step.
 
