@@ -56,7 +56,7 @@ Getting Started
      
          git clone
 
-         https://github.com/MehmetZekii/tower-of-hanoi.  -solver.git
+         https://github.com/MehmetZeki-Ozkaplan/tower-of-hanoi.  -solver.git
 
          cd tower-of-hanoi-solver
      
